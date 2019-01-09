@@ -9,3 +9,6 @@ https://www.cnblogs.com/guangyan/articles/6682686.html
 - 捕获冒泡 window document body div
 - 你能讲一下什么是原型链吗？
 - https://www.cnblogs.com/DF-fzh/p/5619319.html
+- JS sort
+- https://segmentfault.com/a/1190000017814119
+- 
